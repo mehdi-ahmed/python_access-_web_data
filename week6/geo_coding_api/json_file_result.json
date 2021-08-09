@@ -1,0 +1,71 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "Rue de l'Artichaut",
+          "short_name": "Rue de l'Artichaut",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Bruxelles",
+          "short_name": "Bruxelles",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Belgique",
+          "short_name": "BE",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "1210",
+          "short_name": "1210",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Rue de l'Artichaut, 1210, Belgique",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 50.8485401,
+            "lng": 4.3756944
+          },
+          "southwest": {
+            "lat": 50.8482527,
+            "lng": 4.3737129
+          }
+        },
+        "location": {
+          "lat": 50.84838689999999,
+          "lng": 4.374625099999999
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": 50.8497453802915,
+            "lng": 4.376052630291503
+          },
+          "southwest": {
+            "lat": 50.8470474197085,
+            "lng": 4.373354669708498
+          }
+        }
+      },
+      "place_id": "ChIJy2nxXWLDw0cRjvqW_KoYmGA",
+      "types": [
+        "route"
+      ]
+    }
+  ],
+  "status": "OK"
+}
